@@ -63,7 +63,8 @@
       "success": "Thank you! We'll get back to you soon.",
       "error": "Please fill in all required fields."
     },
-    "address": "123 Tranquil Lane, Wellness City, CA 90210"
+    "address": "123 Tranquil Lane, Wellness City, CA 90210",
+    "hours": "Monday - Saturday: 9:00 AM - 8:00 PM, Sunday: 10:00 AM - 6:00 PM"
   },
   "about": {
     "title": "About Us",
